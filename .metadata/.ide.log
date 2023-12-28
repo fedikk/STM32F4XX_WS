@@ -1151,3 +1151,11 @@
 2023-12-26 10:39:12,378 [INFO] ApiDb:280 - User favorites MCUs=[]
 2023-12-26 10:39:12,379 [INFO] ApiDb:276 - Save user favorites file C:\Users\marce/.stm32cubeide/favorites.boards.txt: 1 item(s)
 2023-12-26 10:39:12,380 [INFO] ApiDb:280 - User favorites Boards=[NUCLEO-F401RE]
+2023-12-27 10:53:07,663 [INFO] Activator:170 - 
+
+
+2023-12-27 10:53:07,665 [INFO] Activator:171 - !SESSION log4j initialized
+2023-12-28 10:00:48,967 [INFO] Activator:170 - 
+
+
+2023-12-28 10:00:48,968 [INFO] Activator:171 - !SESSION log4j initialized
